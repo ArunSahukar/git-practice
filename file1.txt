@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-"Main branch changes" 
-=======
+"Main branch changes"
 "Feature1 branch changes" 
->>>>>>> feature1
 "New changes" 
 "pull req" 
