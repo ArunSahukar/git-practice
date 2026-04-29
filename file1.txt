@@ -3,3 +3,4 @@
 =======
 "Feature1 branch changes" 
 >>>>>>> feature1
+"New changes" 
